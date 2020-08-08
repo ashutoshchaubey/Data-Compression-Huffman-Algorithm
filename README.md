@@ -10,8 +10,10 @@ Huffman encoding is a lossless data compression algorithm and we will talk a bit
 
 ## Fixed length encoding
 Consider my name, ASHUTOSH, if I store this then every character uses a sequence of 8 bits (0s and 1s)
-Number_of_characters = 8
-Size = 8 bytes or  8 * 8 = 64 bits
+
+> Number_of_characters = 8
+
+> Size = 8 bytes or  8 * 8 = 64 bits
 
 This is fixed length encoding as every character uses the same number of fixed bits of storage
 
